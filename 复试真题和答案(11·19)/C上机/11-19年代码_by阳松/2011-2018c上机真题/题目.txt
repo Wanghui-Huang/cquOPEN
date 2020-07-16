@@ -1,0 +1,13 @@
+
+c上机真题：https://docs.qq.com/doc/DVUptTW1PUHZEREJh
+
+c练习：https://docs.qq.com/doc/DVXRQSU1iWUttWndy
+
+
+ps：由于水平有限，代码之中一定有很多错漏以及不合理之处，
+       以上真题和练习题皆来自文档（链接：https://docs.qq.com/doc/DVXRaVXl4UGN1dXpv）
+       感谢  19-二营长的炮灰  19-江流儿 & 19-sandel ，感谢学长们整理的资料
+       学长的文档中已经整理了解答的代码，这个文件是当时自己写这些题的代码总结。
+
+20-yacai
+                                                                                

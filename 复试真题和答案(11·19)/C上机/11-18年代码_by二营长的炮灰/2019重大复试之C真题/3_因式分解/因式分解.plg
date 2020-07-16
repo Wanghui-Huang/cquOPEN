@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 因式分解 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2416.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/因式分解.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\重大c上机\2019重大复试之C真题\3_因式分解\因式分解.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2416.tmp" 
+<h3>Output Window</h3>
+Compiling...
+因式分解.c
+c:\users\administrator\desktop\重大c上机\2019重大复试之c真题\3_因式分解\因式分解.c(28) : warning C4013: 'malloc' undefined; assuming extern returning int
+
+
+
+<h3>Results</h3>
+因式分解.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
