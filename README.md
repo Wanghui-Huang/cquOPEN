@@ -52,7 +52,7 @@
 |        |                             链接                             |      备注       |
 | :----: | :----------------------------------------------------------: | :-------------: |
 |  微云  |       [初试_PART1](<https://share.weiyun.com/5RdTQtB>)       | 提取码：3kdckx  |
-| 百度云 | [初试_PART2](https://pan.baidu.com/s/13jUukvf2iMQbP2AM1VmqaA) |  提取码：baat   |
+| 百度云 | [初试_PART2](链接: https://pan.baidu.com/s/11gW-USczyBNoR1Yj9gevNQ) |  提取码：nvwe   |
 | 群文件 |                       英语一、二模板等                       | 群号：714741903 |
 
 ## 复试资料
